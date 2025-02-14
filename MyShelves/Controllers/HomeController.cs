@@ -15,6 +15,9 @@ namespace MyShelves.Controllers
 
         public IActionResult Index()
         {
+            //bookshelfserver.database.windows.net
+            // JayG
+            // Brad1121!
             return View();
         }
 
